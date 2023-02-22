@@ -11,6 +11,16 @@ changing the output, and how to deploy and launch websites through GitHub pages.
 I learned how to use semantic HTML to provide more accessibility to the webpage.
 I also learned how to write a quality README file using markdown.
 
+You can find the site here:
+
+https://github pages link
+
+
+## Images
+
+![image-of-top-half-of-website](./assets/images/top-of-project.png)
+![image-of-bottom-half-of-website](./assets/images/bottom-of-project.png)
+
 
 ## Credits
 
@@ -29,7 +39,7 @@ I also referred to Mozilla's MDN website for various tips on HTML and CSS.
 
 ## License
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 Phillip Pfister. Confidential and Proprietary. All Rights Reserved.
 
 ---
 
