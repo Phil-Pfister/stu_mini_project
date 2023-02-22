@@ -13,7 +13,7 @@ I also learned how to write a quality README file using markdown.
 
 You can find the site here:
 
-https://github pages link
+[https://phil-pfister.github.io/stu_mini_project/]
 
 
 ## Images
